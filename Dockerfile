@@ -1,4 +1,4 @@
-# Build Consul Server Container
+# Build Imagemagick Container
 ARG IMAGE_USER=geoffh1977
 ARG IMAGE_NAME=alpine
 ARG IMAGE_VERSION=latest
